@@ -1,0 +1,1 @@
+class TimesInterval(val timeInterval: TimeInterval, val num: Int);
